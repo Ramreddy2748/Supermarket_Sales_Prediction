@@ -30,11 +30,11 @@ The dataset used for this project consists of the following features:
 
 **DATA VISUALIZATION**
 
-**Plot 1**
+## Plot 1
 Represents **histograms** for each numerical column in the DataFrame df and displays them in a single figure with a specified size of 14 inches by 14 inches. 
 Each histogram provides a visual representation of the distribution of values in its respective column, helping you understand the data distribution and identify patterns.
 
-**Plot 2**
+## Plot 2
 Generating of a **line plot** to visualize the relationship between the **'Rating' and 'Unit price'** columns in the DataFrame.
 The line plot is useful for understanding trends or patterns in how the 'Unit price' variable changes with different 'Rating' values. 
 The **sns.lineplot** function automatically handles the creation of the plot with sensible default settings, making it easy to explore relationships in your data.
